@@ -59,13 +59,20 @@ The app will be available at:
 http://localhost:4200
 ```
 
+
 ---
 
 ## ✅ Done!
 
-You’re all set! Open the browser and start exploring your first Angular app 🎉
+Open your browser and visit the following URL to run and test the Angular app:
 
---
+```
+http://localhost:4200
+```
+
+> 🧪 This will load your first Angular application — test the features and explore the UI 🎉
+
+---
 
 ## 📁 Project Structure
 
