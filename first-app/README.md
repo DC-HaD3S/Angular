@@ -88,5 +88,3 @@ Based on the official Angular documentation with enhancements for learning and p
 ```
 
 ---
-
-Let me know if you want a dark mode version or want to turn this into a GitHub README file directly!
