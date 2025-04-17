@@ -105,7 +105,12 @@ You’re all set! Open the browser and start exploring your first Angular app �
 ┣ 📄 angular.json
 ┣ 📄 package.json
 ┣ 📄 db.json  <-- Mock backend data (in root)
-
+┣ 📄 package-lock.json
+┣ 📄 package.json
+┣ 📄 README.md
+┣ 📄 tsconfig.app.json
+┣ 📄 tsconfig.json
+┗ 📄 tsconfig.spec.json
 ```
 
 ---
