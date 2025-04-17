@@ -85,6 +85,4 @@ Youâ€™re all set! Open the browser and start exploring your first Angular app ðŸ
 
 Based on the official Angular documentation with enhancements for learning and practice.
 
-```
 
----
