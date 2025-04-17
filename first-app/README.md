@@ -65,18 +65,47 @@ http://localhost:4200
 
 You’re all set! Open the browser and start exploring your first Angular app 🎉
 
----
+--
 
 ## 📁 Project Structure
 
 ```
 📦 first-app/
+┣ 📁 .angular/
+┣ 📁 .vscode/
+┣ 📁 e2e/
+┣ 📁 node_modules/
+┣ 📁 src/
+┃ ┗ 📁 app/
+┃   ┣ 📁 components/
+┃   ┃ ┣ 📁 details/
+┃   ┃ ┃ ┣ 📄 details.component.css
+┃   ┃ ┃ ┣ 📄 details.component.html
+┃   ┃ ┃ ┗ 📄 details.component.ts
+┃   ┃ ┣ 📁 home/
+┃   ┃ ┃ ┣ 📄 home.component.css
+┃   ┃ ┃ ┣ 📄 home.component.html
+┃   ┃ ┃ ┗ 📄 home.component.ts
+┃   ┃ ┗ 📁 housing-location/
+┃   ┃   ┣ 📄 housing-location.component.css
+┃   ┃   ┣ 📄 housing-location.component.html
+┃   ┃   ┗ 📄 housing-location.component.ts
+┃   ┣ 📁 interface/
+┃   ┃ ┗ 📄 housinglocation.ts
+┃   ┣ 📁 service/
+┃   ┃ ┗ 📄 housing.service.ts
+┃   ┣ 📄 app.component.css
+┃   ┣ 📄 app.component.html
+┃   ┣ 📄 app.component.ts
+┃   ┗ 📄 routes.ts
+┣ 📁 assets/
+┃   ┣ 📄 location-pin.svg
+┃   ┗ 📄 logo.svg 
+┣ 📄 favicon.ico
 ┣ 📄 angular.json
 ┣ 📄 package.json
-┣ 📁 src/
-┃ ┣ 📄 app/
-┃ ┗ ...
-┣ 📄 db.json  <-- Mock backend data
+┣ 📄 db.json  <-- Mock backend data (in root)
+
 ```
 
 ---
